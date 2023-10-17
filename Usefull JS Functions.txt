@@ -1,0 +1,6 @@
+ Some usefull JS Functions
+
+.reduce
+.split
+.concat
+... -> Spread
